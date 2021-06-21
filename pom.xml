@@ -10,7 +10,6 @@
 	</parent>
 	<groupId>com.bookzy</groupId>
 	<artifactId>project</artifactId>
-	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>project</name>
 	<description>Bookzy Jenkins Project</description>
